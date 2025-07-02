@@ -1,4 +1,4 @@
-<h1>Hi, I'm Enrique, an <a href="https://www.linkedin.com/in/enrique-chaug">IT Help Analyst</a>☺</h1>
+<h1>Hi, I'm Enrique, an <a href="https://www.linkedin.com/in/enrique-chaug">IT Support Technician</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
