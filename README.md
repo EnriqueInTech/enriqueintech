@@ -14,10 +14,8 @@
 
 [<img align="left" alt="Enrique | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Enrique | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Enrique | Buy Me a Coffee" width="22px" src="https://cdn.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg" />][coffee]
 
 <br />
 
 [linkedin]: https://www.linkedin.com/in/enrique-chaug  
-[youtube]: https://www.youtube.com/@yourchannelhandle  
-[coffee]: https://www.buymeacoffee.com/enriqueintech
+[youtube]: https://www.youtube.com/@EnriqueInTech
