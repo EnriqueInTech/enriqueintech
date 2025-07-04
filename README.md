@@ -3,12 +3,12 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/gitwithenrique/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/gitwithenrique/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/gitwithenrique/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/enriqueintech/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/enriqueintech/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/enriqueintech/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Preparing Active Directory Infrastructure within Azure VMs](https://github.com/gitwithenrique/prepare-ad)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/gitwithenrique/configure-ad)
+  - [Preparing Active Directory Infrastructure within Azure VMs](https://github.com/enriqueintech/prepare-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/enriqueintech/configure-ad)
 
 <h2>🤳 Connect with me:</h2>
 
