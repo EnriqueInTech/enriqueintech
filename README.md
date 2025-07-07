@@ -21,3 +21,6 @@
 [linkedin]: https://www.linkedin.com/in/enrique-chaug  
 [youtube]: https://www.youtube.com/@EnriqueInTech
 [coffee]: https://www.buymeacoffee.com/enriqueintech
+
+<br />
+📫 Reach me: enrique [at] enriqueintech [dot] com
