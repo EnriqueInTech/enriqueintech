@@ -1,6 +1,11 @@
 <h1>Hi, I'm Enrique, an <a href="https://www.linkedin.com/in/enrique-chaug">IT Support Technician</a></h1>
 Information Technology professional with experience in implementing IT solutions, managing network security, and supporting system administration. Passionate about cybersecurity and building a career in technical support and cyber defense.
 
+**Certifications**
+- CompTIA A+ (In progress, expected within 3 months)
+- CourseCareers IT Professional Certificate
+- Google Cybersecurity Professional Certificate
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
