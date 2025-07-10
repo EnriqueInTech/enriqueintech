@@ -11,7 +11,7 @@ Information Technology professional with experience in implementing IT solutions
 - CourseCareers IT Professional Certificate
 - Google Cybersecurity Professional Certificate
 
-<h2>🗂️ Information Technology Projects:</h2>
+<h2>🗃️ Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/enriqueintech/osticket-prereqs)
