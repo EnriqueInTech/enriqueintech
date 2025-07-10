@@ -28,3 +28,5 @@ Information Technology professional with experience in implementing IT solutions
 [linkedin]: https://www.linkedin.com/in/enrique-chaug  
 [youtube]: https://www.youtube.com/@EnriqueInTech
 [coffee]: https://www.buymeacoffee.com/enriqueintech
+
+<img src="https://enriqueintech.com/favicon.ico" width="16" style="vertical-align:middle;" /> [enriqueintech.com](https://enriqueintech.com)
