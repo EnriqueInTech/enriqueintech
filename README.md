@@ -2,6 +2,7 @@
 Information Technology professional with experience in implementing IT solutions, managing network security, and supporting system administration. Passionate about cybersecurity and building a career in technical support and cyber defense.
 
 <h2>Professional Portfolio:</h2>
+
 <img src="https://enriqueintech.com/favicon.ico" width="16" style="vertical-align:middle;" /> [enriqueintech.com](https://enriqueintech.com)
 
 <h2>📜 Certifications:</h2>
