@@ -3,7 +3,7 @@ Information Technology professional with experience in implementing IT solutions
 
 <h2>👨🏻‍💼 Professional Portfolio:</h2>
 
-<img src="https://enriqueintech.com/favicon.ico" width="16" style="vertical-align:middle;" /> [enriqueintech.com](https://enriqueintech.com)
+<img src="https://enriqueintech.com/favicon.ico" width="16" style="vertical-align:middle; margin-right:6px;" /> [enriqueintech.com](https://enriqueintech.com)
 
 <h2>📜 Certifications:</h2>
 
