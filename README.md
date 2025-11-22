@@ -24,7 +24,7 @@
 
 <h2>👨🏻‍💼 Professional Portfolio:</h2>
 
-<img src="https://enriqueintech.com/favicon.ico" width="16" style="vertical-align:middle; margin-right:6px;" /> [enriqueintech.com](https://enriqueintech.com)
+<img src="https://enriquefernandes.com/favicon.ico" width="16" style="vertical-align:middle; margin-right:6px;" /> [enriquefernandes.com](https://enriquefernandes.com)
 
 <h2>📜 Certifications:</h2>
 
