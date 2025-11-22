@@ -18,9 +18,9 @@
 
 <br />
 
-[linkedin]: https://www.linkedin.com/in/enrique-chaug  
-[youtube]: https://www.youtube.com/@EnriqueInTech
-[coffee]: https://www.buymeacoffee.com/enriqueintech
+[linkedin]: https://www.linkedin.com/in/enrique-fernandes  
+[youtube]: https://www.youtube.com/@Enrique.Fernandes
+[coffee]: https://www.buymeacoffee.com/enriquefernandes
 
 <h2>👨🏻‍💼 Professional Portfolio:</h2>
 
