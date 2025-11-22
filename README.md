@@ -1,14 +1,14 @@
-<h1>Hi, I'm Enrique, an <a href="https://www.linkedin.com/in/enrique-chaug">IT Support Technician</a></h1>
+<h1>Hi, I'm Enrique, an <a href="https://www.linkedin.com/in/enrique-fernandes">IT Support Technician</a></h1>
 
 <h2>🗃️ Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/enriqueintech/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/enriqueintech/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/enriqueintech/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/enriquefernandes/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/enriquefernandes/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/enriquefernandes/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Preparing Active Directory Infrastructure within Azure VMs](https://github.com/enriqueintech/prepare-ad)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/enriqueintech/configure-ad)
+  - [Preparing Active Directory Infrastructure within Azure VMs](https://github.com/enriquefernandes/prepare-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/enriquefernandes/configure-ad)
 
 <h2>🤝 Connect with me:</h2>
 
