@@ -29,5 +29,5 @@
 <h2>📜 Certifications:</h2>
 
 - CompTIA A+ (In progress, expected within 3 months)  
-- [CourseCareers IT Professional Certificate](https://profile.coursecareers.com/it/enrique.chaug)  
-- [Google Cybersecurity Professional Certificate](https://coursera.org/share/5f790578bb98dc7e9ec50f744801748f)
+- CourseCareers IT Professional Certificate 
+- Google Cybersecurity Professional Certificate
